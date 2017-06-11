@@ -1,4 +1,4 @@
-<img src="tsh.png" width="50">
+<div style="text-align:center"><img src="tsh.png" width="50"></div>
 
 ## $_ team-shell
 
