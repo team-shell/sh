@@ -1,4 +1,4 @@
-## $_ team-shell
+<img src="tsh.png" width="50"> ## $_ team-shell
 
 Application Security Vulnerability Findings, Exploits & OWASP Contributions...
 
