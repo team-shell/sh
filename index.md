@@ -16,4 +16,8 @@ Application Security Vulnerability Findings, Exploits & OWASP Contributions.
 * OWASP JuiceShop
 
 ### Vulnerabilities
+* 
 
+### Applications/Tooling
+* [tsh-facebook-pm-vuln](https://github.com/team-shell/tsh-facebook-pm-vuln) - Facebook Credentials Stealer via Password Manager Flaws.
+* [tsh-clipboard-sniffer](https://github.com/team-shell/tsh-clipboard-sniffer) - Cordova Credentials Sniffer using Clipboard Polling
